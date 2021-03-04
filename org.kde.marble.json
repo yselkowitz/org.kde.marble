@@ -22,8 +22,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/marble-20.12.2.tar.xz",
-                    "sha256": "420ddc73a34bd2ed4ac6c6bde3cd05c7ea2dc05f20b1b2457a167a54bae6f14d" 
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/marble-20.12.3.tar.xz",
+                    "sha256": "57b1b129dd0301c124ab5f930af9dfe044cedfcd42a6b180c6cf3c594fba7bc2" 
                 },
                 {
                     "type": "patch",
