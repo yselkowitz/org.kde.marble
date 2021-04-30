@@ -19,6 +19,9 @@
             "name": "marble",
             "buildsystem": "cmake-ninja",
             "builddir": true,
+            "post-install": [
+                "rm /app/share/applications/org.kde.marble-qt.desktop"
+            ],
             "sources": [ 
                 { 
                     "type": "archive", 
