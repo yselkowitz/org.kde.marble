@@ -5,7 +5,7 @@
      <binary>marble</binary>
    </provides>
 +  <releases>
-+    <release version="21.04.2" date="2021-06-08"/>
++    <release version="21.04.3" date="2021-07-06"/>
 +  </releases>  
    <content_rating type="oars-1.1"/>
  </component>
