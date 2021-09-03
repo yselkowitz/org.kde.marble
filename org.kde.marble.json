@@ -25,8 +25,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/marble-21.08.0.tar.xz",
-                    "sha256": "f40b5386f5502803f72a4551652e06be7b9f779e28113e058f08de9b9f11569f" 
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/marble-21.08.1.tar.xz",
+                    "sha256": "fcc7d3bbeed31a43a36db4f2ec94f742ef40edea73ddd0df9dd4fdf4391f0e06" 
                 },
                 {
                     "type": "patch",
