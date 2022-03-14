@@ -26,7 +26,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/marble-21.12.3.tar.xz",
-                    "sha256": "442925b9024c0d7d470aa1523b0647c8fdce9ce69a0a2c6b29133d43596ad86c"
+                    "sha256": "442925b9024c0d7d470aa1523b0647c8fdce9ce69a0a2c6b29133d43596ad86c",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/marble-$version.tar.xz"
+                    }
                 },
                 {
                     "type": "patch",
